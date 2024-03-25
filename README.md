@@ -50,9 +50,6 @@ uvicorn app.main:app --reload
 - http://127.0.0.1:8000/docs (документация Swagger)
 - http://127.0.0.1:8000/redoc (документация Redoc)
 
-## Авторство
-
-Code - Дима Смолов
 
 ## Лицензия
 
