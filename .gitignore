@@ -131,7 +131,7 @@ dmypy.json
 # .idea
 .idea
 
-.db
+*.db
 
 alembic/
 
